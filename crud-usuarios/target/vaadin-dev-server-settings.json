@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/lucas/Downloads/crud-usuarios-main/crud-usuarios/crud-usuarios-main/crud-usuarios/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/lucas/Downloads/crud-usuarios-main/crud-usuarios/crud-usuarios-main/crud-usuarios/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/lucas/Downloads/crud-usuarios-main/crud-usuarios/crud-usuarios-main/crud-usuarios/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\lucas\\Downloads\\crud-usuarios-main\\crud-usuarios\\crud-usuarios-main\\crud-usuarios\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\lucas\\Downloads\\crud-usuarios-main\\crud-usuarios\\crud-usuarios-main\\crud-usuarios\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/lucas/Downloads/crud-usuarios-main/crud-usuarios/crud-usuarios-main/crud-usuarios/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/lucas/Downloads/crud-usuarios-main/crud-usuarios/crud-usuarios-main/crud-usuarios/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/lucas/Downloads/crud-usuarios-main/crud-usuarios/crud-usuarios-main/crud-usuarios/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\lucas\\Downloads\\crud-usuarios-main\\crud-usuarios\\crud-usuarios-main\\crud-usuarios\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
